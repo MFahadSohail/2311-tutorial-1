@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Dads.  
 Sds
-=======
->>>>>>> parent of 297c68e (my third commit)
